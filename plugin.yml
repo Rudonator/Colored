@@ -1,0 +1,6 @@
+name: Colored
+main: com.Rudonator.Colored.Main
+version: 1.0.0
+commands:
+   rainbow:
+      description: Rainbow Color
